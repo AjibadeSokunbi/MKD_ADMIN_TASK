@@ -1,7 +1,7 @@
 import React from "react";
 
 const SubHeader = () => {
-  // Function to format the date
+
   const formatDate = (date) => {
     const day = date.getDate();
     const monthNames = [
